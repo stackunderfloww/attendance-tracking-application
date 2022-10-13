@@ -1,1 +1,1 @@
-Attendance tracking application
+# Attendance tracking application
